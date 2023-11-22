@@ -1,4 +1,4 @@
-- And who am i? That's a secret i'll never tell.
+- And who am I? That's a secret i'll never tell.
 - After all, who am I to criticize anybody?
 
 <!---
